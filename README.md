@@ -8,3 +8,9 @@
   <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge" alt="H2"/>
   <img src="https://img.shields.io/badge/Lombok-CC0000?style=for-the-badge" alt="Lombok"/>
 </p>
+## 📌 Sobre o projeto
+A **Locatech API** é uma aplicação backend desenvolvida para estudo de construção de APIs REST com Java e Spring Boot.
+## ✅ Funcionalidades implementadas
+- CRUD de veículos
+- Organização em camadas
+- Banco H2 em memória
