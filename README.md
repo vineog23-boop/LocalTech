@@ -14,3 +14,5 @@ A **Locatech API** é uma aplicação backend desenvolvida para estudo de constr
 - CRUD de veículos
 - Organização em camadas
 - Banco H2 em memória
+## 🧱 Stack utilizada
+- **Java 21**, **Spring Boot 4.0.5**, **Spring JDBC**, **Spring Web MVC**, **H2**, **Lombok**
